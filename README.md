@@ -1,6 +1,6 @@
 ## exmap: Simple and lightweight maphack and zoomhack
 
-### **[Click here to download the latest version!](https://github.com/m4p3r/exmap-release/raw/master/bin/exmap_201.zip)**
+### **[Click here to download the latest version!](https://github.com/m4p3r/exmap-release/raw/master/bin/exmap_210.zip)**
 
 #### **[Click here to ask for help and support](https://www.ownedcore.com/forums/mmo/path-of-exile/poe-bots-programs/842622-exmap-2-0-simple-lightweight-maphack.html)**
 
@@ -41,7 +41,7 @@ Cheating is bad. Using this program is against the game's terms of use. This is 
 
 #### Changelog
 
-*Version 2.1 - March 3, 2020 ([Download](https://github.com/m4p3r/exmap-release/raw/master/bin/exmap_201.zip))*
+*Version 2.1 - March 3, 2020 ([Download](https://github.com/m4p3r/exmap-release/raw/master/bin/exmap_210.zip))*
 - Increased the maximum camera zoom by 50%.
 
 *Version 2.0 - February 6, 2020 ([Download](https://github.com/m4p3r/exmap-release/raw/master/bin/exmap_200.zip))*
