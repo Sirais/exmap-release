@@ -1,6 +1,6 @@
 ## exmap: Simple and lightweight maphack and zoomhack
 
-### **[Click here to download the latest version!](https://github.com/m4p3r/exmap-release/raw/master/bin/exmap_210.zip)**
+### **[Click here to download the latest version!](https://github.com/m4p3r/exmap-release/raw/master/bin/exmap_220.zip)**
 
 #### **[Click here to ask for help and support](https://www.ownedcore.com/forums/mmo/path-of-exile/poe-bots-programs/842622-exmap-2-0-simple-lightweight-maphack.html)**
 
@@ -16,7 +16,7 @@ This program reveals the entire map and increases the maximum camera zoom in Pat
 - No open handles to the game.
 - No admin privileges required.
 - No fumbling with Cheat Engine tables required.
-- **Works with Steam and standard clients.**
+- **Works with Steam and standard clients only.**
 - **64-bit client only.**
 
 #### Disclaimer
@@ -29,7 +29,16 @@ Cheating is bad. Using this program is against the game's terms of use. This is 
 2. Double-click on *exmap.exe*. You do not need to run it as an administrator.
 3. The maphack will be automatically activated.
 
-**If you are using the popular technique of running Path of Exile as a limited user account, you will need to run exmap with that same user account or as administrator.**
+**If you are using the popular technique of running Path of Exile as a limited user account, or you have problems running exmap with the default settings, you can try this alternate loading method starting in version 2.2:**
+
+You'll need to create a shortcut to the *exmap.exe* file.
+
+1. Right-click on *exmap.exe* and click *Create shortcut*.
+2. Right-click on the newly created shortcut and click *Properties*.
+3. In the text box that says *Target*, add ` -alt` after `exmap.exe`. Example: `C:\some\path\exmap.exe -alt`.
+4. Save the shortcut.
+
+From now on, you should double-click on this shortcut instead to run the maphack. If you still have trouble after completing these steps, try right clicking and selecting *Run as administrator*.
 
 #### Screenshots
 
@@ -40,6 +49,9 @@ Cheating is bad. Using this program is against the game's terms of use. This is 
 *Maximum zoom range with exmap.*
 
 #### Changelog
+
+*Version 2.2 - March 6, 2020 ([Download](https://github.com/m4p3r/exmap-release/raw/master/bin/exmap_220.zip))*
+- Added an alternate loading method to help with users who run the game as a limited user.
 
 *Version 2.1 - March 3, 2020 ([Download](https://github.com/m4p3r/exmap-release/raw/master/bin/exmap_210.zip))*
 - Increased the maximum camera zoom by 50%.
