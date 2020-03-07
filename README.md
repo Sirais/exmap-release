@@ -29,7 +29,7 @@ Cheating is bad. Using this program is against the game's terms of use. This is 
 2. Double-click on *exmap.exe*. You do not need to run it as an administrator.
 3. The maphack will be automatically activated.
 
-**If you are using the popular technique of running Path of Exile as a limited user account, or you have problems running exmap with the default settings, you can try this alternate loading method starting in version 2.2:**
+**If you are using the popular technique of running Path of Exile as a limited user account, you must run the maphack as the same limited user. This is safe to do. It will not affect how detectable the maphack is. If you have problems running exmap with the default settings, you can try this alternate loading method starting in version 2.2:**
 
 You'll need to create a shortcut to the *exmap.exe* file.
 
@@ -38,7 +38,7 @@ You'll need to create a shortcut to the *exmap.exe* file.
 3. In the text box that says *Target*, add ` -alt` after `exmap.exe`. Example: `C:\some\path\exmap.exe -alt`.
 4. Save the shortcut.
 
-From now on, you should double-click on this shortcut instead to run the maphack. If you still have trouble after completing these steps, try right clicking and selecting *Run as administrator*.
+From now on, you should double-click on this shortcut instead to run the maphack. Remember that you still need to be running the maphack as the same limited user as the game, if you use the limited user method. If you still have trouble after completing these steps, try right clicking and selecting *Run as administrator*.
 
 #### Screenshots
 
