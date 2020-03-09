@@ -1,6 +1,6 @@
 ## exmap: Simple and lightweight maphack and zoomhack
 
-### **[Click here to download the latest version!](https://github.com/m4p3r/exmap-release/raw/master/bin/exmap_220.zip)**
+### **[Click here to download the latest version!](https://github.com/m4p3r/exmap-release/raw/master/bin/exmap_230.zip)**
 
 #### **[Click here to ask for help and support](https://www.ownedcore.com/forums/mmo/path-of-exile/poe-bots-programs/842622-exmap-2-0-simple-lightweight-maphack.html)**
 
@@ -29,16 +29,18 @@ Cheating is bad. Using this program is against the game's terms of use. This is 
 2. Double-click on *exmap.exe*. You do not need to run it as an administrator.
 3. The maphack will be automatically activated.
 
-**If you are using the popular technique of running Path of Exile as a limited user account, you must run the maphack as the same limited user. This is safe to do. It will not affect how detectable the maphack is. If you have problems running exmap with the default settings, you can try this alternate loading method starting in version 2.2:**
+**Do you run Path of Exile as a limited user? If so, you also need to do the following:**
+- **You *must* run the maphack and the game as the same user.**
+- **You *must* allow the game to access the folder that exmaplib.dll is in.**
+- **Doing this does not make it easier to detect the maphack.**
 
-You'll need to create a shortcut to the *exmap.exe* file.
+#### Common Issues
 
-1. Right-click on *exmap.exe* and click *Create shortcut*.
-2. Right-click on the newly created shortcut and click *Properties*.
-3. In the text box that says *Target*, add ` -alt` after `exmap.exe`. Example: `C:\some\path\exmap.exe -alt`.
-4. Save the shortcut.
+**I get error code EE: 0xA0000003 LE: 5 when I try to run the maphack.**
+See the instructions above. This is usually because you are not running the maphack using the exact same user that the game is running with. You need to run them as the same user. You also need to make sure the game can access the folder where the maphack is saved.
 
-From now on, you should double-click on this shortcut instead to run the maphack. Remember that you still need to be running the maphack as the same limited user as the game, if you use the limited user method. If you still have trouble after completing these steps, try right clicking and selecting *Run as administrator*.
+**I get dropped from the server if I load the maphack when I'm already in game.**
+The maphack will essentially pause the game while it waits for you to click OK after seeing the success message. If you wait too long to do this and you're already in-game, the server may disconnect you because of a timeout.
 
 #### Screenshots
 
@@ -49,6 +51,11 @@ From now on, you should double-click on this shortcut instead to run the maphack
 *Maximum zoom range with exmap.*
 
 #### Changelog
+
+*Version 2.3 - March 8, 2020 ([Download](https://github.com/m4p3r/exmap-release/raw/master/bin/exmap_230.zip))*
+- Fixed the zoomhack to now work with both keyboard and mouse zooms.
+- Fixed several potential performance issues.
+- Removed alternate loading method.
 
 *Version 2.2 - March 6, 2020 ([Download](https://github.com/m4p3r/exmap-release/raw/master/bin/exmap_220.zip))*
 - Added an alternate loading method to help with users who run the game as a limited user.
