@@ -1,6 +1,6 @@
 ## exmap: Simple and lightweight maphack and zoomhack
 
-### **[Click here to download the latest version!](https://github.com/m4p3r/exmap-release/raw/master/bin/exmap_240.zip)**
+### [UPDATING FOR 3.10, PLEASE WAIT...]
 
 #### **[Click here to ask for help and support](https://www.ownedcore.com/forums/mmo/path-of-exile/poe-bots-programs/842622-exmap-2-0-simple-lightweight-maphack.html)**
 
